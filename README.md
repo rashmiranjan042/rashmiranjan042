@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmiranjan042&label=Profile%20views&color=0e75b6&style=flat" alt="rashmiranjan042" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmiranjan042" alt="rashmiranjan042" /></a> </p>
+
 
 - 🌱 I’m currently learning **Azure Data engineering services**
 
