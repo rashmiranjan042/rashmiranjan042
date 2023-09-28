@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data engineering concepts, SQL, Pyspark**
 
-- ⚡ Fun fact **I am funny and genz**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
